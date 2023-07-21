@@ -3,7 +3,9 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Inter', sans-serif;
-}
+  left: 0;
+  right: 0;
+  top: 0;
 body{
   width: 100%;
   background: #e5e7eb;
